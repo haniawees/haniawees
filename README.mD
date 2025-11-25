@@ -15,7 +15,7 @@
 
 ## 📫 Contact Me
 
-* ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+* ✉️ Email: [aragsanahmed06@.com](mailto:your.email@example.com)
 * 🌐 Website/Portfolio: [https://yourwebsite.com](https://yourwebsite.com)
 
 ## 📊 GitHub Stats
