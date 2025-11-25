@@ -20,4 +20,6 @@
 
 ## 📊 GitHub Stats
 
-![Hanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername\&show_icons=true\&theme=radical)
+### Current status:
+🚀 Learning React & Node.js | Working on new project
+
